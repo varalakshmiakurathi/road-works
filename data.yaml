@@ -1,0 +1,7 @@
+train: /home/varalaxmi/Downloads/YOLO_Roadworks/train/images
+val: /home/varalaxmi/Downloads/YOLO_Roadworks/valid/images
+test: /home/varalaxmi/Downloads/YOLO_Roadworks/test/images
+
+nc: 1
+names: ['RoadWorks']
+

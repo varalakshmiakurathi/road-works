@@ -1,9 +1,0 @@
-# train and val data
-train: ../train/images/
-valid: ../valid/images/
-
-# number of classes
-nc: 1
-
-# class names
-names: ['roadworks']
